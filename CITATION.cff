@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Diseño de controladores MATLAB
+message: Matlab; Python ; Multisim
+type: software
+authors:
+  - given-names: 'Celia '
+    family-names: Hernandez
+    email: L22210415@tectijuana.edu.mx
+    affiliation: 'Tecnologico Nacional de Mexico '
+  - given-names: Angel
+    family-names: Juarez
+    email: L22210417@tectijuana.edu.mx
+    affiliation: 'Tecnologico Nacional de Mexico '
+repository-code: 'https://github.com/CeliaHernandez07/MSF-Practica-1'
+keywords:
+  - Controlador PID
+  - Sistema de Control
+  - 'Funcion de Transferencia '
+  - Circuito RLC
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-03-07'
